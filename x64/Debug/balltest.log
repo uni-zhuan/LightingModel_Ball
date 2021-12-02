@@ -1,0 +1,10 @@
+﻿  hello.cpp
+D:\study\cg\balltest\hello.cpp(266,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\study\cg\balltest\hello.cpp(374,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\study\cg\balltest\hello.cpp(375,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\study\cg\balltest\hello.cpp(380,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\study\cg\balltest\hello.cpp(381,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\study\cg\balltest\hello.cpp(382,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\study\cg\balltest\hello.cpp(383,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\study\cg\balltest\hello.cpp(385,28): warning C4305: “初始化”: 从“double”到“float”截断
+  balltest.vcxproj -> D:\study\cg\balltest\x64\Debug\balltest.exe

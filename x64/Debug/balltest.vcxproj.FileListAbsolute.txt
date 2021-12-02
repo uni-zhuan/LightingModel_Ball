@@ -1,0 +1,2 @@
+D:\study\cg\test\balltest\x64\Debug\balltest.exe
+D:\study\cg\balltest\x64\Debug\balltest.exe
